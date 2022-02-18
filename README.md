@@ -43,9 +43,9 @@
 
 
 <p align=center>
-  <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-andrianaivo-146108210/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
-  <a href="https://www.facebook.com/jeremie.andri/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
-  <a href="https://twitter.com/AndriaJeremie/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
-  <a href="https://www.instagram.com/jeremie_yukii/?hl=fr/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
+  <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-andrianaivo-146108210/"><img height=35 width=35 src="https://github.com/Natjay0230/Natjay0230/blob/main/img/in.png"></a>
+  <a href="https://www.facebook.com/jeremie.andri/"><img height=35 width=35 src="https://github.com/Natjay0230/Natjay0230/blob/main/img/facebook.png"></a>
+  <a href="https://twitter.com/AndriaJeremie/"><img height=35 width=35 src="https://github.com/Natjay0230/Natjay0230/blob/main/img/twitter.png"></a>
+  <a href="https://www.instagram.com/jeremie_yukii/?hl=fr/"><img height=35 width=35 src="https://github.com/Natjay0230/Natjay0230/blob/main/img/insta.png"></a>
   
 </p>
