@@ -1,5 +1,6 @@
 <div class="rounded-2 mb-2" align="center">
     <h3 align="center">:diamond_shape_with_a_dot_inside: WELCOME ~ TONGASOA ~ ようこそ :diamond_shape_with_a_dot_inside:</h3>
+    <img height=150 width=150 src="https://github.com/Natjay0230/Natjay0230/blob/main/img/nj.jpg">
 </div>
 
 <p align=center>
