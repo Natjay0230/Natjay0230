@@ -4,7 +4,7 @@
 </div>
 
 <p align=center>
-  <img src='https://readme-typing-svg.herokuapp.com/?font=cascadia&color=%23059AA9&size=20&duration=6000&center=true&vCenter=true&lines=J%C3%A9r%C3%A9mie+ANDRI%27S+as+Natjay0230+JABIBA'>
+  <img src='https://readme-typing-svg.herokuapp.com/?font=cascadia&color=%23059AA9&size=20&duration=6000&center=true&vCenter=true&lines=J%C3%A9r%C3%A9mie+ANDRI%27S+as+Natjay0230+or+JABIBA'>
 <p>
 
 <p align=center>  <strong>
